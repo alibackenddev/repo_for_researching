@@ -5,3 +5,4 @@ Message 4
 Message 5 
 Message 6 added by user 
 User2 dan salom
+Yangitdan Merge commit ustida sinov uchun USER2 text qo'shdi file.txt ga 
